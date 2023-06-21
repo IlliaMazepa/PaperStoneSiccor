@@ -1,0 +1,11 @@
+E:\VSProjects\Client\ExamNPClient\bin\Debug\ExamNPClient.exe.config
+E:\VSProjects\Client\ExamNPClient\bin\Debug\ExamNPClient.exe
+E:\VSProjects\Client\ExamNPClient\bin\Debug\ExamNPClient.pdb
+E:\VSProjects\Client\ExamNPClient\obj\Debug\ExamNPClient.csproj.AssemblyReference.cache
+E:\VSProjects\Client\ExamNPClient\obj\Debug\ExamNPClient.csproj.SuggestedBindingRedirects.cache
+E:\VSProjects\Client\ExamNPClient\obj\Debug\ExamNPClient.Form1.resources
+E:\VSProjects\Client\ExamNPClient\obj\Debug\ExamNPClient.Properties.Resources.resources
+E:\VSProjects\Client\ExamNPClient\obj\Debug\ExamNPClient.csproj.GenerateResource.cache
+E:\VSProjects\Client\ExamNPClient\obj\Debug\ExamNPClient.csproj.CoreCompileInputs.cache
+E:\VSProjects\Client\ExamNPClient\obj\Debug\ExamNPClient.exe
+E:\VSProjects\Client\ExamNPClient\obj\Debug\ExamNPClient.pdb
